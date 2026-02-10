@@ -43,12 +43,12 @@ Trained on the **MTSamples** dataset, a collection of ~5,000 transcribed medical
 ### 1. The Web Interface
 _The app allows users to paste a medical report and get ICD-10 suggestions._
 
-<img src="../images/Screenshot 2026-02-10 223937.png" alt="App Demo" width="600">
+<img src="images/Screenshot 2026-02-10 223937.png" alt="App Demo" width="600">
 
 ### 2. Explainability (SHAP)
 _The model highlights the words that influenced its decision (Red = Evidence For, Blue = Evidence Against)._
 
-<img src="../images/Screenshot 2026-02-08 220115.png" alt="App Demo" width="600">
+<img src="images/Screenshot 2026-02-08 220115.png" alt="SHAP Demo" width="600">
 
 ---
 
@@ -56,5 +56,5 @@ _The model highlights the words that influenced its decision (Red = Evidence For
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/PMSI-AI-Coding-Assistant.git](https://github.com/YOUR_USERNAME/PMSI-AI-Coding-Assistant.git)
+git clone [https://github.com/Arshbeg/PMSI-AI-Coding-Assistant.git](https://github.com/Arshbeg/PMSI-AI-Coding-Assistant.git)
 cd PMSI-AI-Coding-Assistant
