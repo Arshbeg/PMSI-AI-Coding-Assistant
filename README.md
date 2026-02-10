@@ -1,7 +1,6 @@
 ## PMSI AI Coding Assistant
 
 A **Deep Learning NLP application** that automates medical coding (PMSI/ICD-10) by analyzing clinical reports. Built with **Bio_ClinicalBERT**, this tool reads raw doctor's notes and predicts the correct diagnostic codes with high confidence.
----
 
 ### Limitations & Disclaimer
 
@@ -39,21 +38,21 @@ Trained on the **MTSamples** dataset, a collection of ~5,000 transcribed medical
 
 ---
 
-## 📸 Demo
+## Demo
 
 ### 1. The Web Interface
 _The app allows users to paste a medical report and get ICD-10 suggestions._
 
-*(Add a screenshot of your Streamlit app here)*
+<img src="../images/Screenshot 2026-02-10 223937.png" alt="App Demo" width="600">
 
 ### 2. Explainability (SHAP)
 _The model highlights the words that influenced its decision (Red = Evidence For, Blue = Evidence Against)._
 
-*(Add a screenshot of your SHAP visualization here)*
+<img src="../images/Screenshot 2026-02-08 220115.png" alt="App Demo" width="600">
 
 ---
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the Repository
 ```bash
