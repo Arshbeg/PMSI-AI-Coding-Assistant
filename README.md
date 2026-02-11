@@ -50,11 +50,3 @@ _The model highlights the words that influenced its decision (Red = Evidence For
 
 <img src="images/Screenshot 2026-02-08 220115.png" alt="SHAP Demo" width="600">
 
----
-
-## Installation & Usage
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Arshbeg/PMSI-AI-Coding-Assistant.git](https://github.com/Arshbeg/PMSI-AI-Coding-Assistant.git)
-cd PMSI-AI-Coding-Assistant
